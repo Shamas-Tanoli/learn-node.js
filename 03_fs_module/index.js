@@ -70,7 +70,7 @@
 // deleteFile();
 
 
-// --- delete empty directory ----- 
+// --- delete empty directory ---- 
 // const fs = require('fs');
 
 // fs.rmdir('./shamas',(err)=>{
