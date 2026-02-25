@@ -83,7 +83,7 @@
 // })
 
 
-// --- delete empty directory with file and directory  ----- 
+// --- delete empty directory with file and directory  ---- 
 // fs.rm('./shamas',{ recursive: true, force: true },(err)=>{
 //     if (err) {
 //         console.error('Folder delete nahi hua:', err);
