@@ -50,7 +50,7 @@
 // }
 // appendFile();
 
-// ---- delete file  --- 
+// --- delete file  --- 
 
 // const fs = require('fs');
 
